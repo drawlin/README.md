@@ -1,7 +1,7 @@
 ## Hello, I’m drawlin! 🙋‍♂️
 
-* Formerly developer at MobPvP, TheCraftRIP, & more.
-* Currently at Fierce Network
+* Formerly developer at <a href=https://github.com/MobPvP>MobPvP</a>, <a href=https://github.com/TheCraftRIP>TheCraftRIP</a>, & more.
+* Currently at <a href="https://github.com/FierceNetwork">Fierce Network</a>
 
 #### Here is what I have done! 💻 
 ###### excludes private work
