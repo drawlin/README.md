@@ -5,4 +5,4 @@
 
 #### Here is what I have done! 💻 
 ###### excludes private work
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=drawlin&hide=contribs,prs,stars)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=drawlin&hide=prs,stars)
